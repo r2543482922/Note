@@ -45,7 +45,7 @@ const CONFIG = {
     // 天气预报
     weather: false,
     // 天气接口 默认接口1，可选接口1、2，接口2暂时无法使用
-    weatherType: 2,
+    weatherType: 1,
     // 星座运势
     star: false,
     // 土味情话
